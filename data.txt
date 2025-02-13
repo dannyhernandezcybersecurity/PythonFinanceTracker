@@ -1,0 +1,7 @@
+Income: $50000.0
+Expenses:
+  Car: $500.0
+  Rent: $2000.0
+  food: $500.0
+  car payment : $1000.0
+Savings Goal: $4500.0
