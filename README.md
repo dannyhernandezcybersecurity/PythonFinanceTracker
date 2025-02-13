@@ -5,12 +5,18 @@ This program has one dependency: Panda
 
 Pseudocode:
 
-Finance Tracker Class
+Finance Tracker Class:
 Class is called the user inputs a budget, income, expenses, and savings goal
+
 Functions below the class define and call the user's budget, savings, income, and expenses
+
 The user can also generate a summary and save the summary to a file called data.txt
-Advanced Finance Tracker 
+
+Advanced Finance Tracker:
 Logs expenses to a category and exports the expenses to a file.
-The user is given 7 options 
+
+The user is given 7 options
+
 On what to do with their data points, including income expenses and exporting the expenses to a CSV 
+
 If the user inputs a non-valid choice they are presented with an error this is done with an exception
